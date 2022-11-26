@@ -1,0 +1,39 @@
+{
+    "query": [
+        {
+            "number": 1,
+            "name": "Brusko",
+            "ip": "194.61.3.167",
+            "port": 2510,
+            "online": 0,
+            "maxplayers": 1000,
+            "password": false,
+            "plotPoints": [
+                {
+                    "online": 0,
+                    "time": 1624076223
+                },
+                {
+                    "online": 15,
+                    "time": 1624079883
+                },
+                {
+                    "online": 14,
+                    "time": 1624083542
+                },
+                {
+                    "online": 18,
+                    "time": 1624087143
+                },
+                {
+                    "online": 22,
+                    "time": 1624090802
+                },
+                {
+                    "online": 19,
+                    "time": 1624094463
+                }
+            ]
+        }
+    ]
+}
